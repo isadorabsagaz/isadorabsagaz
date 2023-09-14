@@ -1,6 +1,3 @@
-Hey guys!
-
-- 👽 My name is Isadora;
-- ☕ Learning Java;
-- 👾 First semester of Computer Science;
-- 💚 IFSC - Lages;
+Just getting to know more about this crazy tec world
+Learning Java at IFSC-Lages
+[![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg)
