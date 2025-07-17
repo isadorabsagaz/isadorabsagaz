@@ -1,24 +1,36 @@
+<h1 align="center">Hi there! 👋 I'm Isadora</h1>
 
-<h2 align="center">Hi, there! 👋 My name is Isadora </h2>
-
-<p align="center">I'm a begginer programmer;</br>
-Currently studing Computer Science at IFSC - Lages; </br>
-</p> 
-</br>
-
-<h2 align="center">Learning</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java" />
-  </a>
+ Computer Science student at IFSC - Lages;<br/>
+ Currently working as an intern at <a href="https://box360.net.br" target="_blank"><strong>Box360</strong></a>;<br/>
 </p>
-</br>
 
-<h2 align="center">Tools</h2>
+
+<h2 align="center">Currently Learning</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,mysql,idea,webstorm,figma" />
+    <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,html,css" alt="Learning stack"/>
   </a>
 </p>
 
 
+<h2 align="center">Tools & Technologies</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,idea,webstorm,vite,figma,mysql,postgres" alt="Tools I use"/>
+  </a>
+</p>
+
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/isadora-benthien-sagaz-b003bb2ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:isadora.sagaz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
