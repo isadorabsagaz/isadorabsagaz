@@ -2,7 +2,6 @@
 
 <p align="center">
  Computer Science student at IFSC - Lages;<br/>
- Currently working as an intern at <a href="https://box360.net.br" target="_blank"><strong>Box360</strong></a>;<br/>
 </p>
 
 
@@ -10,7 +9,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,html,css" alt="Learning stack"/>
+    <img src="https://skillicons.dev/icons?i=java,cs,nodejs,ts,react,html,css" alt="Learning stack"/>
   </a>
 </p>
 
@@ -19,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,idea,webstorm,vite,figma,mysql,postgres" alt="Tools I use"/>
+    <img src="https://skillicons.dev/icons?i=github,git,idea,rider,webstorm,vite,figma,mysql,postgres" alt="Tools I use"/>
   </a>
 </p>
 
