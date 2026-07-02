@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Isadora</h1>
+<h2 align="center">Hi there! 👋 I'm Isadora</h2>
 
 <p align="center">
  Computer Science Student at IFSC • Software Developer Intern • Incoming M.Sc. Student at IPBeja
@@ -6,19 +6,17 @@
 
 ---
 
-## About Me
+### About Me
 
 - Computer Science student at IFSC (Lages, Brazil);
 - Software Developer Intern at Safena Engenharia (Florianópolis, Brazil) — Remote;
 - Incoming M.Sc. student in Computer Engineering and Internet of Things at IPBeja, Portugal;
-- Currently working with full-stack development and cloud storage solutions;
-- Interested in Artificial Intelligence, Cloud Technologies and Software Engineering;
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-### Languages
+#### Languages
 
 <p>
   <a href="https://skillicons.dev">
@@ -26,7 +24,7 @@
   </a>
 </p>
 
-### Development
+#### Development
 
 <p>
   <a href="https://skillicons.dev">
@@ -34,7 +32,7 @@
   </a>
 </p>
 
-### Tools
+#### Tools
 
 <p>
   <a href="https://skillicons.dev">
@@ -44,7 +42,7 @@
 
 ---
 
-## Let's Connect
+### Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/isadora-benthien-sagaz-b003bb2ab/">
