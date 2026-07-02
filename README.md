@@ -1,35 +1,57 @@
 <h1 align="center">Hi there! 👋 I'm Isadora</h1>
 
 <p align="center">
- Computer Science student at IFSC - Lages;<br/>
+ Computer Science Student at IFSC • Software Developer Intern • Incoming M.Sc. Student at IPBeja
 </p>
 
+---
 
-<h2 align="center">Currently Learning</h2>
+## About Me
 
-<p align="center">
+- Computer Science student at IFSC (Lages, Brazil);
+- Software Developer Intern at Safena Engenharia (Florianópolis, Brazil) — Remote;
+- Incoming M.Sc. student in Computer Engineering and Internet of Things at IPBeja, Portugal;
+- Currently working with full-stack development and cloud storage solutions;
+- Interested in Artificial Intelligence, Cloud Technologies and Software Engineering;
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,nodejs,ts,react,html,css" alt="Learning stack"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs" height="42" />
   </a>
 </p>
 
+### Development
 
-<h2 align="center">Tools & Technologies</h2>
-
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,idea,rider,webstorm,vite,figma,mysql,postgres" alt="Tools I use"/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,vite,html,css,postgres,mysql,gcp,supabase,docker" height="42" />
   </a>
 </p>
 
+### Tools
 
-<h2 align="center">Let's Connect</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,idea,rider,vscode,figma" height="42" />
+  </a>
+</p>
 
-<p align="center">
+---
+
+## Let's Connect
+
+<p>
   <a href="https://www.linkedin.com/in/isadora-benthien-sagaz-b003bb2ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:isadora.sagaz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
