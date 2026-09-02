@@ -1,7 +1,7 @@
 <h2 align="center">Hi there! 👋 I'm Isadora</h2>
 
 <p align="center">
- Computer Science Student at IFSC • Software Developer Intern • Incoming M.Sc. Student at IPBeja
+ Computer Science • Incoming M.Sc. Student
 </p>
 
 ---
@@ -9,8 +9,7 @@
 ### About Me
 
 - Computer Science student at IFSC (Lages, Brazil);
-- Software Developer Intern at Safena Engenharia (Florianópolis, Brazil) — Remote;
-- Incoming M.Sc. student in Computer Engineering and Internet of Things at IPBeja, Portugal;
+- Incoming M.Sc. student in Computer Engineering and Internet of Things at UPBeja, Portugal;
 
 ---
 
