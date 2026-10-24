@@ -1,15 +1,15 @@
-<h2 align="center">Hi there! 👋 I'm Isadora</h2>
+<h2 align="center">Hi there! I'm Isadora</h2>
 
 <p align="center">
- Computer Science • Incoming M.Sc. Student
+ M.Sc. Student • Computer Science 
 </p>
 
 ---
 
 ### About Me
 
-- Computer Science student at IFSC (Lages, Brazil);
-- Incoming M.Sc. student in Computer Engineering and Internet of Things at UPBeja, Portugal;
+- Master's student in Computer Engineering and Internet of Things | UPBeja, Portugal;
+- Bachelor in Computer Science student | IFSC-Lages, Brazil;
 
 ---
 
